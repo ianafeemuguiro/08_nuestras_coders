@@ -1,0 +1,27 @@
+
+
+.uno{
+	background-color: white;
+	}
+/*.caja2{
+	margin:10px;
+	display:inline-block;
+}*/
+.photo{
+	position: relative;
+	top:40px;
+	left: 100px;
+	margin:10px;
+	display:inline-block;
+}
+
+
+span {
+	color:;
+	position:absolute;
+	top:190px;
+}
+* {
+	position: relative;
+	left: 10px;
+}
